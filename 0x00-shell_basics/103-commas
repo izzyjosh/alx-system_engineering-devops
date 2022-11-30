@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -amp | sord -d
+ls -amp | sort -d
